@@ -1,0 +1,21 @@
+
+
+.main {
+  width: 60rem;
+  margin: 50px auto;
+}
+
+.container {
+    display: flex;
+    justify-content: start;
+}
+
+.container__photo img{
+    width: 200px;
+    height: 180px;
+    border-radius: 10px;
+}
+
+.container__form {
+    margin-left: 10px;
+}
